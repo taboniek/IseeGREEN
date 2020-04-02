@@ -1,5 +1,5 @@
-# IseeGREEN
-:alien: This program converts your green color of picture to bitmap
+# I :eyes: GREEN
+:alien: This program converts your green color of picture to bitmap :dragon_face:
 
 
 # Screen of result
