@@ -1,0 +1,9 @@
+C:\Users\jnatkows\Desktop\shrek\shrek\bin\Debug\shrek.exe.config
+C:\Users\jnatkows\Desktop\shrek\shrek\bin\Debug\shrek.exe
+C:\Users\jnatkows\Desktop\shrek\shrek\bin\Debug\shrek.pdb
+C:\Users\jnatkows\Desktop\shrek\shrek\obj\Debug\shrek.csprojAssemblyReference.cache
+C:\Users\jnatkows\Desktop\shrek\shrek\obj\Debug\shrek.Form1.resources
+C:\Users\jnatkows\Desktop\shrek\shrek\obj\Debug\shrek.Properties.Resources.resources
+C:\Users\jnatkows\Desktop\shrek\shrek\obj\Debug\shrek.csproj.GenerateResource.cache
+C:\Users\jnatkows\Desktop\shrek\shrek\obj\Debug\shrek.exe
+C:\Users\jnatkows\Desktop\shrek\shrek\obj\Debug\shrek.pdb
